@@ -3,4 +3,5 @@
     <string name="input_text">Введите текст</string>
     <string name="color_quality">Цветовое качество</string>
     <string name="exit">Выход</string>
+    <string name="random">случайное значение</string>
 </resources>
